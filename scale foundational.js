@@ -41,6 +41,12 @@ for( let i=0;  i < myArray.length;  i++ ) {
 **/
 function find_smaller_number(a, b){
 
+  let (a > b)
+  return b
+  return a
+  return answer;
+
+
 }
 
 
@@ -51,6 +57,7 @@ function find_smaller_number(a, b){
 
 function find_smallest_number(numbers){
 
+  myArray = [ 2, 4, 6, 8, 10,]
 }
 
 
@@ -73,7 +80,7 @@ function abbreviate(word, length){
 **/
 
 function get_full_name(first_name, last_name){
-
+  Myfunction_full_name(first_Michael, last_Ellis)
 }
 
 /**
